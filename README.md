@@ -20,3 +20,6 @@ Open an issue on GitHub if that didn't help.
 
 # Want to work on this and share it?
 Go ahead! Just have a link to this repo please? :)
+The RPF shop repo (which hardly relates to this now) has a GNU license so therefore, I'm legally required to have a GNU license on this as well (bs, should be open and free but oh well). So if you do redistribute this, ensure you mention the RPF repo as well as this one...
+
+GNU License
