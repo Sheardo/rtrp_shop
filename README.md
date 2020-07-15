@@ -5,7 +5,7 @@ This is a fork of [RPF shop](https://github.com/cedricalpatch/rpf_generalshop) (
 ## Requirements
 [redem-roleplay](https://github.com/RedEM-RP/redem_roleplay/)
 
-[redem-roleplay](https://github.com/RedEM-RP/redemrp_inventory)
+[redem-inventory](https://github.com/RedEM-RP/redemrp_inventory)
 
 
 ## Installation
