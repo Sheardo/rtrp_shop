@@ -1,3 +1,5 @@
+No longer maintained
+
 # rtrp_shop
 General shop for RDR2.
 This is a fork of [RPF shop](https://github.com/cedricalpatch/rpf_generalshop) (it has been heavily changed so I'm not even sure if this is needed). It's more light weight and easier to configure.
